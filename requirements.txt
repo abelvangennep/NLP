@@ -1,0 +1,11 @@
+numpy
+Pillow
+torch
+tabulate
+tqdm
+spacy==3.2
+wordfreq
+textacy
+sklearn == 1.0.2
+pandas
+matplotlib
