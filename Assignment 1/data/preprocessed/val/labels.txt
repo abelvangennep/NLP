@@ -1,0 +1,85 @@
+N N N N N N N N N C N C N N N N N N N C N N N N N C N N N N C N C N N C N N C N N N C N
+N N N N N C N C N N N N
+N N N N N N N C N C N C N N N N N N C N N N N N N C N N C N C N
+N N N N C N N N N N N N N N N N N N N N N N C N N N N N N N N N N N N N N C N N N C N C N N N
+N N N N N N N N C N N N N C N N C N
+N N N N N N C N N N N N N N N N N N C N N C N C N N N N
+N N C N C N N C C N N N N N N N N N N N N C N N N C N N N N N C N N N
+N N N C N N C N N N N N N N N N N N N N C N
+N N N N C N N N N N N N N N N C N N
+C N N N N C C N N N C N N N N C N C N
+N N N N N C N N C C N C N N N N N N N C C N N N N N N N N N N N N N N N N N N N
+N N N N N N N N N N N N N N N
+C N N N N N N N N N N N C N N C N N N N N N N N N
+N N N C C N C C N N C N N N N N N
+N N N N N N N N N N N C N N N N N N C C N N N
+N C C N N N N C N N N N N N N N N N
+N N N N N N C N N C C N N N N N N C N N C N C N N
+N N N N N N N C N N N N
+N N N N C N C N N N N N N N N C N N N N N C N C N N N
+N N C N C N
+N N N N N N N N N N N N N C C N
+N N N N N N N N N N N
+N N N N N C N N N N N C N N N N N C N C N N C N N
+N N N C N N N N C N C N N N
+N N C C N N N N N N N N C N N N N N C N N
+N N C N N N N N N N N N N N N
+N N C N N N N N N N N N N N N N N N N N C N N
+N N N N N N C N N N
+N N N N N N N N N N N N C N N N N N N N N N N N N
+N N N N N N N N N C N C N N N N C N C N N N
+N N N N N N N N N C N N N N C N N N N C N N N N N C N N N N N
+N N N C N N N N C N
+N N N N N N N C N N N N C N N N N N C N N N N N N N N N N N N N
+N C N N N N N N N N N N N N N N C N N N N N N C N N N N N N N N N N N C N N
+N N N N N N N N N N N N N N N N N N N N N C N C N
+N N C C C N N N N N N N C N N N N N N N N N N N N N
+N N N C N N N C N C N
+N N N N N N C N N N N C N N N C N N N N N N N
+N N N N C C N N N
+N N N N N N N N N N N N N N N N N N N N N N N N N N N N C N N C N N N N N N C N N
+N N N N N N N N N N C N N N C N
+N N N C N N N C N N
+N N N N C N N C N N C N N N N
+N C N N N N N N N N N N C C C N C C C N
+N N N N C N N C C N C N N N N C N
+N N N N N C N N N C N N N N N N N N C N
+N C N N N N N N N N N N N
+N N N N N N N N N N N C N N N N N N N N N N N N N N N N N N N C N N
+N N N N N C N N N N N N N N N N N N N N C N C N N
+N N N N N C C N N
+N N N N N N N N N N N N N N N N C C N C N N N N C N N C N C N N N N N
+N C N N C N N N N N N N N N C N N N N N C N N N
+N C N N N N N N N C N N N C N N N N N N N N N N N N N N N C N N N N C N
+N N N N N
+N C N N N N N N N N C N N N N N N N N N N N N N N N N N N N
+N N N N N N N N N N N N N N N N N C N N C N C N N N N N N N N N N N N N N N N N N N N N C N N N N N C N N N N N C N N N N N N C N N C C N N N N N N N C N N C N N
+N N N N C N
+N N N N N C N N N N N N N
+N N N N
+N N N N N N N N C N N N C N N C N C N N N N N N C N N N N N N N N C N N
+N N N C N N N N N N N N N N N N N N N N N N N N N N N N N N N N
+N N N C N N C N N C C N
+N N N N N N N N N N C C N N N
+N N N N N N N N N N N N N N N N N N N N C N N
+N C N N N N N N N
+N C C N C N N
+C N N C N N N C N
+N N N N N N N N N N N C N C N
+N N N N N N N N C N
+N N N N N N N N N C N C N N N C N
+N N N N N N N N N N C N N N N N C N N N N N N C N N N N N N N N N N C N N N N N N C N N N N N N N
+N N N N N N N N N N N N C N N N C N C N N N N N N N N
+N N N C N N N N C N N
+N N N N N N N N N C N N N N N
+N C N N N N C C N C N N N N N N N C N N N N N N C N N N N N N N N C C N N N N N
+N N N N N N C N N N C N N N N C N N N N C N N N
+N N N N N N C N N N N N N N N N N N N N N C N N N N
+N C N N N N N N N C C N N N C C N C N N N N N N
+N N N N N N N N N N N N N N N N N N N N N C N N N
+N C C N C N N N N N
+N N N N C C N N N N C C N N N N N N C N N N N N N N N N C N N N N C N
+N N N N N N C C N N N N N N N N N N N N N N N N
+N N N N C N C N N C N N N C N N N
+N N N C N N C C N N N N N N N N N C N N N N C N N C N N N N N N C N N N N N C C N
+N N N N N N N N N N C N N C N

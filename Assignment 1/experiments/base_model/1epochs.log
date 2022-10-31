@@ -1,0 +1,7 @@
+2022-04-19 22:27:06,852:INFO: Loading the datasets...
+2022-04-19 22:27:06,869:INFO: - done.
+2022-04-19 22:27:06,874:INFO: Starting training for 1 epoch(s)
+2022-04-19 22:27:06,875:INFO: Epoch 1/1
+2022-04-19 22:27:09,674:INFO: - Train metrics: accuracy: 0.772 ; loss: 0.533
+2022-04-19 22:27:09,764:INFO: - Eval metrics : accuracy: 0.845 ; loss: 0.386
+2022-04-19 22:27:09,776:INFO: - Found new best accuracy
